@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://danyduchainethemes.com/laurie-blog-2
+Data file = /home2/danyduch/public_html/laurie-blog-2/wp-content/themes/laurie-blog/import/laurie-blog-content-1.xml
+Widget file = /home2/danyduch/public_html/laurie-blog-2/wp-content/themes/laurie-blog/import/laurie-blog-widget-1.wie
+Customizer file = /home2/danyduch/public_html/laurie-blog-2/wp-content/themes/laurie-blog/import/laurie-blog-customizer-1.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Laurie Blog - About Author - About Me - Imported
+Laurie Blog - Posts List - Recent Posts - Imported
+Laurie Blog - Subscribe - The Newsletter - Imported
+Meta - Useful Links - Imported
+
+Slider #6 - Sidebar 1 : 
+
+Laurie Blog - About Author 2 - No Title - Imported
+Laurie Blog - Subscribe - No Title - Imported
+
+Slider #6 - Sidebar 2 : 
+
+Laurie Blog - Posts List #2 - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

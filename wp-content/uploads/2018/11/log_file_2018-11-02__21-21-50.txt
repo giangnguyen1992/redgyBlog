@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Demo Import 2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888
+Data file = /Users/redgy/Desktop/sites/wordpress/wp-content/themes/laurie-blog/import/laurie-blog-content-2.xml
+Widget file = /Users/redgy/Desktop/sites/wordpress/wp-content/themes/laurie-blog/import/laurie-blog-widget-2.wie
+Customizer file = /Users/redgy/Desktop/sites/wordpress/wp-content/themes/laurie-blog/import/laurie-blog-customizer-2.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Meta - Useful Links - Imported
+Laurie Blog - About Author - About Me - Imported
+Laurie Blog - Posts List - Recent Posts - Imported
+Laurie Blog - Subscribe - The Newsletter - Imported
+
+Slider #6 - Sidebar 1 : 
+
+Laurie Blog - About Author 2 - No Title - Imported
+Laurie Blog - Subscribe - No Title - Imported
+
+Slider #6 - Sidebar 2 : 
+
+Laurie Blog - Posts List #2 - Recent Posts - Imported
+Laurie Blog - Posts List #2 - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

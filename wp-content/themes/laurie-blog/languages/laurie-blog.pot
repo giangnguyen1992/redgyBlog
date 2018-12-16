@@ -1,0 +1,1110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Name\n"
+"POT-Creation-Date: 2018-09-06 22:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_x:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;"
+"esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: ."
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:47
+msgid "Footer logo"
+msgstr ""
+
+#: functions.php:63
+msgid "Left Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Right Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Header 1 & 3 Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:67
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:136
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:138 functions.php:148 functions.php:157 functions.php:167
+#: functions.php:177
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:146
+msgid "Slider #6 - Sidebar 1"
+msgstr ""
+
+#: functions.php:155
+msgid "Slider #6 - Sidebar 2"
+msgstr ""
+
+#: functions.php:165
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:175
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:208 functions.php:217 functions.php:226 functions.php:235
+msgid ""
+"All changes that you made in \"Appearance > Customize\" will be override. "
+"Are you sure you want to continue?"
+msgstr ""
+
+#: functions.php:252
+msgid ""
+"Hi and welcome to Laurie theme. First of all, thank you for buying the theme,"
+" I really hope you will enjoy working with it. If you just installed the "
+"theme, your next step to setup the demo content is to install the plugin "
+"\"One Click Demo Import\". Simply click on \"Begin installing plugins\" "
+"below and you will be able to install it. Once the plugin is installed (and "
+"activated), simply click on \"Appearance\" on the left sidebar and click on "
+"\"Import Demo Data\". From there you will be able to import the demo content."
+" Please contact me on the support forum if you have any problems with the "
+"theme : https://danyduchaine.ticksy.com/ - Dany"
+msgstr ""
+
+#: functions.php:282
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:283
+msgid "collapse child menu"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: functions.php:314
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: searchform.php:5
+msgid "Type & Hit Enter ..."
+msgstr ""
+
+#: searchform.php:9
+msgid "Submit"
+msgstr ""
+
+#: single.php:40
+msgid "Next Article"
+msgstr ""
+
+#: single.php:41
+msgid "Next post:"
+msgstr ""
+
+#: single.php:43
+msgid "Previous Article"
+msgstr ""
+
+#: single.php:44
+msgid "Previous post:"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: inc/taxonomy-options.php:10 inc/taxonomy-options.php:51
+msgid "Image URL"
+msgstr ""
+
+#: inc/taxonomy-options.php:13
+msgid ""
+"Enter the URL to the image. Will be shown as background image below the "
+"header when viewing a category archive."
+msgstr ""
+
+#: inc/taxonomy-options.php:54
+msgid ""
+"Enter the URL to the image. Will be shown as background image below the "
+"header when viewing a tag archive."
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:47
+#, php-format
+msgid "Tagged in : %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:54
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> %s</span>"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:61 template-parts/content-page.php:37
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Newer"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgid "Older"
+msgstr ""
+
+#: inc/theme-options.php:14
+msgid "Top Bar Options & Colors"
+msgstr ""
+
+#: inc/theme-options.php:20 inc/theme-options.php:31 inc/theme-options.php:42
+#: inc/theme-options.php:53 inc/theme-options.php:215 inc/theme-options.php:226
+#: inc/theme-options.php:613 inc/theme-options.php:649
+#: inc/theme-options.php:713 inc/theme-options.php:945
+#: inc/theme-options.php:987
+msgid "On"
+msgstr ""
+
+#: inc/theme-options.php:21 inc/theme-options.php:32 inc/theme-options.php:43
+#: inc/theme-options.php:54 inc/theme-options.php:216 inc/theme-options.php:227
+#: inc/theme-options.php:614 inc/theme-options.php:650
+#: inc/theme-options.php:714 inc/theme-options.php:946
+#: inc/theme-options.php:988
+msgid "Off"
+msgstr ""
+
+#: inc/theme-options.php:23
+msgid "Display Top Bar"
+msgstr ""
+
+#: inc/theme-options.php:34 inc/theme-options.php:229
+msgid "Display Social Icons"
+msgstr ""
+
+#: inc/theme-options.php:45
+msgid "Display Menu"
+msgstr ""
+
+#: inc/theme-options.php:56
+msgid "Display Search Field"
+msgstr ""
+
+#: inc/theme-options.php:64 inc/theme-options.php:625 inc/theme-options.php:835
+#: inc/theme-options.php:957
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options.php:65 inc/theme-options.php:836
+msgid "Center"
+msgstr ""
+
+#: inc/theme-options.php:66 inc/theme-options.php:624 inc/theme-options.php:837
+#: inc/theme-options.php:956
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options.php:68
+msgid "Top Bar Menu Alignment"
+msgstr ""
+
+#: inc/theme-options.php:75
+msgid "Top Bar Padding"
+msgstr ""
+
+#: inc/theme-options.php:82
+msgid "Top Bar Sub-Nav Margin-Top"
+msgstr ""
+
+#: inc/theme-options.php:89
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/theme-options.php:96
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/theme-options.php:103
+msgid "Top Bar Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:110
+msgid "Top Bar Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:117
+msgid "Top Bar Sub-Nav Background Color"
+msgstr ""
+
+#: inc/theme-options.php:124
+msgid "Top Bar Sub-Nav Border Color"
+msgstr ""
+
+#: inc/theme-options.php:131
+msgid "Top Bar Sub-Nav Separator Color"
+msgstr ""
+
+#: inc/theme-options.php:138
+msgid "Top Bar Sub-Nav Text Color"
+msgstr ""
+
+#: inc/theme-options.php:145
+msgid "Top Bar Sub-Nav Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:152
+msgid "Top Bar Sub-Nav Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:159
+msgid "Top Bar Social Icons Color"
+msgstr ""
+
+#: inc/theme-options.php:166
+msgid "Top Bar Social Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:173
+msgid "Top Bar Search Text Color"
+msgstr ""
+
+#: inc/theme-options.php:180
+msgid "Top Bar Search Text Active Color"
+msgstr ""
+
+#: inc/theme-options.php:187
+msgid "Top Bar Search Icon Color"
+msgstr ""
+
+#: inc/theme-options.php:196
+msgid "Header Options & Colors"
+msgstr ""
+
+#: inc/theme-options.php:202
+msgid "Header 1"
+msgstr ""
+
+#: inc/theme-options.php:203
+msgid "Header 2"
+msgstr ""
+
+#: inc/theme-options.php:204
+msgid "Header 3"
+msgstr ""
+
+#: inc/theme-options.php:207
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme-options.php:218
+msgid "Display Search Box"
+msgstr ""
+
+#: inc/theme-options.php:236
+msgid "Desktop Header Margin Bottom"
+msgstr ""
+
+#: inc/theme-options.php:243
+msgid "Desktop Header Padding"
+msgstr ""
+
+#: inc/theme-options.php:250
+msgid "Desktop Sub-Nav Margin Top"
+msgstr ""
+
+#: inc/theme-options.php:257
+msgid "Mobile Header Padding"
+msgstr ""
+
+#: inc/theme-options.php:264
+msgid "Mobile Content Margin Top"
+msgstr ""
+
+#: inc/theme-options.php:271
+msgid "Desktop Content Margin Top"
+msgstr ""
+
+#: inc/theme-options.php:278
+msgid "Mobile Search Icon Padding"
+msgstr ""
+
+#: inc/theme-options.php:285
+msgid "Mobile Search Field Padding"
+msgstr ""
+
+#: inc/theme-options.php:292
+msgid "Mobile Menu Icon Padding"
+msgstr ""
+
+#: inc/theme-options.php:299
+msgid "Mobile Menu Top Position"
+msgstr ""
+
+#: inc/theme-options.php:306
+msgid "Desktop Social Right Margin"
+msgstr ""
+
+#: inc/theme-options.php:313
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:320
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:327
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/theme-options.php:334
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/theme-options.php:341
+msgid "Behance URL"
+msgstr ""
+
+#: inc/theme-options.php:348
+msgid "Etsy URL"
+msgstr ""
+
+#: inc/theme-options.php:355
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/theme-options.php:362
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/theme-options.php:369
+msgid "Header 3 Navigation Background Color"
+msgstr ""
+
+#: inc/theme-options.php:376
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/theme-options.php:383
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/theme-options.php:390
+msgid "Header Social Icons Color"
+msgstr ""
+
+#: inc/theme-options.php:397
+msgid "Header Social Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:404
+msgid "Header Search Text Color"
+msgstr ""
+
+#: inc/theme-options.php:411
+msgid "Header Search Text Active Color"
+msgstr ""
+
+#: inc/theme-options.php:418
+msgid "Header Search Icon Color"
+msgstr ""
+
+#: inc/theme-options.php:425
+msgid "Desktop Navigation Text Color"
+msgstr ""
+
+#: inc/theme-options.php:432
+msgid "Desktop Navigation Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:439
+msgid "Desktop Navigation Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:446
+msgid "Desktop Sub-Nav Background Color"
+msgstr ""
+
+#: inc/theme-options.php:453
+msgid "Desktop Sub-Nav Border Color"
+msgstr ""
+
+#: inc/theme-options.php:460
+msgid "Desktop Sub-Nav Separator Color"
+msgstr ""
+
+#: inc/theme-options.php:467
+msgid "Desktop Sub-Nav Text Color"
+msgstr ""
+
+#: inc/theme-options.php:474
+msgid "Desktop Sub-Nav Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:481
+msgid "Desktop Sub-Nav Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:488
+msgid "Mobile Menu Toggle Color"
+msgstr ""
+
+#: inc/theme-options.php:495
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: inc/theme-options.php:502
+msgid "Mobile Menu Text Color"
+msgstr ""
+
+#: inc/theme-options.php:509
+msgid "Mobile Menu Hover / Current Text Color"
+msgstr ""
+
+#: inc/theme-options.php:516
+msgid "Mobile Menu Separator Color"
+msgstr ""
+
+#: inc/theme-options.php:523
+msgid "Mobile Menu Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:530
+msgid "Mobile Social Icons Color"
+msgstr ""
+
+#: inc/theme-options.php:537
+msgid "Mobile Social Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:544
+msgid "Mobile Search Icon Color"
+msgstr ""
+
+#: inc/theme-options.php:551
+msgid "Mobile Search Text Color"
+msgstr ""
+
+#: inc/theme-options.php:558
+msgid "Mobile Search Text Active Color"
+msgstr ""
+
+#: inc/theme-options.php:568
+msgid "Homepage Layout Options"
+msgstr ""
+
+#: inc/theme-options.php:574
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/theme-options.php:575
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/theme-options.php:577
+msgid "Wide / Boxed Layout"
+msgstr ""
+
+#: inc/theme-options.php:585 inc/theme-options.php:599
+msgid "Listing Style 1"
+msgstr ""
+
+#: inc/theme-options.php:586 inc/theme-options.php:600
+msgid "Listing Style 2"
+msgstr ""
+
+#: inc/theme-options.php:587 inc/theme-options.php:601
+msgid "Listing Style 3"
+msgstr ""
+
+#: inc/theme-options.php:588 inc/theme-options.php:602
+msgid "Listing Style 4"
+msgstr ""
+
+#: inc/theme-options.php:589 inc/theme-options.php:603
+msgid "Listing Style 5"
+msgstr ""
+
+#: inc/theme-options.php:591
+msgid "Posts Listing Style (Homepage)"
+msgstr ""
+
+#: inc/theme-options.php:605
+msgid "Posts Listing Style (Blog Template)"
+msgstr ""
+
+#: inc/theme-options.php:616 inc/theme-options.php:948
+msgid "Sidebar On/Off"
+msgstr ""
+
+#: inc/theme-options.php:627 inc/theme-options.php:959
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/theme-options.php:634
+msgid "Desktop Homepage Content Margin Top"
+msgstr ""
+
+#: inc/theme-options.php:643
+msgid "Home - Slider Module"
+msgstr ""
+
+#: inc/theme-options.php:652
+msgid "Slider On/Off"
+msgstr ""
+
+#: inc/theme-options.php:660
+msgid "Slider 1"
+msgstr ""
+
+#: inc/theme-options.php:661
+msgid "Slider 2"
+msgstr ""
+
+#: inc/theme-options.php:662
+msgid "Slider 3"
+msgstr ""
+
+#: inc/theme-options.php:663
+msgid "Slider 4"
+msgstr ""
+
+#: inc/theme-options.php:664
+msgid "Slider 5"
+msgstr ""
+
+#: inc/theme-options.php:666
+msgid "Slider Style"
+msgstr ""
+
+#: inc/theme-options.php:673
+msgid "Auto Slide Speed (In milliseconds, leave at 0 to turn it off)"
+msgstr ""
+
+#: inc/theme-options.php:681
+msgid "Yes"
+msgstr ""
+
+#: inc/theme-options.php:682
+msgid "No"
+msgstr ""
+
+#: inc/theme-options.php:684
+msgid "Remove Slider Posts From Blogroll"
+msgstr ""
+
+#: inc/theme-options.php:691
+msgid "Mobile Slider Margin"
+msgstr ""
+
+#: inc/theme-options.php:698
+msgid "Desktop Slider Margin"
+msgstr ""
+
+#: inc/theme-options.php:707
+msgid "Home - Promo Boxes Module"
+msgstr ""
+
+#: inc/theme-options.php:716
+msgid "Promo Boxes On/Off"
+msgstr ""
+
+#: inc/theme-options.php:724
+msgid "Outside"
+msgstr ""
+
+#: inc/theme-options.php:725
+msgid "Inside"
+msgstr ""
+
+#: inc/theme-options.php:727
+msgid "Promo Boxes Text Style"
+msgstr ""
+
+#: inc/theme-options.php:735
+msgid "Promo Boxes Background Color"
+msgstr ""
+
+#: inc/theme-options.php:742
+msgid "Promo Boxes Padding (e.g. 30px 0)"
+msgstr ""
+
+#: inc/theme-options.php:750
+msgid "Promo Boxes Intro Text Color"
+msgstr ""
+
+#: inc/theme-options.php:757
+msgid "Promo Boxes Link Text Color"
+msgstr ""
+
+#: inc/theme-options.php:764
+msgid "Promo Boxes Text Margin Bottom"
+msgstr ""
+
+#: inc/theme-options.php:771
+msgid "Promo Boxes Text 1 Color"
+msgstr ""
+
+#: inc/theme-options.php:778
+msgid "Promo Boxes Text 1 Color When Hovered (inside the box)"
+msgstr ""
+
+#: inc/theme-options.php:785
+msgid "Promo Boxes Text 2 Color"
+msgstr ""
+
+#: inc/theme-options.php:792
+msgid "Promo Boxes Text BG Color (inside the box)"
+msgstr ""
+
+#: inc/theme-options.php:799
+msgid "Promo Boxes Text BG Color When Hovered (inside the box)"
+msgstr ""
+
+#: inc/theme-options.php:806
+msgid "Promo Boxes Text BG Color (outside the box)"
+msgstr ""
+
+#: inc/theme-options.php:813
+msgid "Promo Boxes Text Padding (outside the box)"
+msgstr ""
+
+#: inc/theme-options.php:820
+msgid "Promo Boxes - Intro Text"
+msgstr ""
+
+#: inc/theme-options.php:827
+msgid "Promo Boxes - Intro Link"
+msgstr ""
+
+#: inc/theme-options.php:839
+msgid "Promo Boxes Text Alignment"
+msgstr ""
+
+#: inc/theme-options.php:846
+msgid "Promo Boxes - Intro Link URL"
+msgstr ""
+
+#: inc/theme-options.php:853
+msgid "Box 1 - Image"
+msgstr ""
+
+#: inc/theme-options.php:860
+msgid "Box 1 - URL"
+msgstr ""
+
+#: inc/theme-options.php:867
+msgid "Box 1 - Text 1"
+msgstr ""
+
+#: inc/theme-options.php:874
+msgid "Box 1 - Text 2"
+msgstr ""
+
+#: inc/theme-options.php:881
+msgid "Box 2 - Image"
+msgstr ""
+
+#: inc/theme-options.php:888
+msgid "Box 2 - URL"
+msgstr ""
+
+#: inc/theme-options.php:895
+msgid "Box 2 - Text 1"
+msgstr ""
+
+#: inc/theme-options.php:902
+msgid "Box 2 - Text 2"
+msgstr ""
+
+#: inc/theme-options.php:909
+msgid "Box 3 - Image"
+msgstr ""
+
+#: inc/theme-options.php:916
+msgid "Box 3 - URL"
+msgstr ""
+
+#: inc/theme-options.php:923
+msgid "Box 3 - Text 1"
+msgstr ""
+
+#: inc/theme-options.php:930
+msgid "Box 3 - Text 2"
+msgstr ""
+
+#: inc/theme-options.php:939
+msgid "Single Post Layout Options"
+msgstr ""
+
+#: inc/theme-options.php:968
+msgid "Footer Options"
+msgstr ""
+
+#: inc/theme-options.php:972
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/theme-options.php:979
+msgid "Footer Text"
+msgstr ""
+
+#: inc/theme-options.php:990
+msgid "Footer Social On/Off"
+msgstr ""
+
+#: inc/theme-options.php:997
+msgid "Footer Background Img"
+msgstr ""
+
+#: inc/theme-options.php:1003
+msgid "Footer Text Left"
+msgstr ""
+
+#: inc/theme-options.php:1010
+msgid "Footer Text Right"
+msgstr ""
+
+#: template-parts/about-author.php:13
+msgid "About the author"
+msgstr ""
+
+#: template-parts/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-single.php:75
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:17
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:22
+msgid "Yellow Pencil"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:28
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:33
+msgid "Woocommerce Archive Customiser"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:38
+msgid "MailPoet Newsletters"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:43
+msgid "Mailchimp Newsletters"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:48
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:53
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: inc/tgm/tgm-init.php:58
+msgid "AddToAny Share Buttons"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget.ad-banner.php:15
+msgid "Laurie Blog - Advertisement Banner"
+msgstr ""
+
+#: inc/widgets/widget.ad-banner.php:16
+msgid "Show an advertisement banner."
+msgstr ""
+
+#: inc/widgets/widget.ad-banner.php:49
+msgid "Banner Image"
+msgstr ""
+
+#: inc/widgets/widget.ad-banner.php:101 inc/widgets/widget.author.php:109
+#: inc/widgets/widget.author2.php:124 inc/widgets/widget.posts.php:189
+#: inc/widgets/widget.posts2.php:193 inc/widgets/widget.subscribe.php:120
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget.ad-banner.php:105
+msgid "Banner Image URL:"
+msgstr ""
+
+#: inc/widgets/widget.ad-banner.php:109
+msgid "Banner Link URL:"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget.author.php:15
+msgid "Laurie Blog - About Author"
+msgstr ""
+
+#: inc/widgets/widget.author.php:16 inc/widgets/widget.author2.php:16
+msgid "Show info about the author."
+msgstr ""
+
+#: inc/widgets/widget.author.php:113 inc/widgets/widget.author2.php:128
+msgid "Author Image URL:"
+msgstr ""
+
+#: inc/widgets/widget.author.php:117
+msgid "Content:"
+msgstr ""
+
+#: inc/widgets/widget.author.php:121 inc/widgets/widget.author2.php:140
+msgid "Author Signature URL:"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget.author2.php:15
+msgid "Laurie Blog - About Author 2"
+msgstr ""
+
+#: inc/widgets/widget.author2.php:132
+msgid "Text Line 1 :"
+msgstr ""
+
+#: inc/widgets/widget.author2.php:136
+msgid "Text Line 2 :"
+msgstr ""
+
+#: inc/widgets/widget.author2.php:144
+msgid "Text 2:"
+msgstr ""
+
+#: inc/widgets/widget.author2.php:149
+msgid "Text 2 URL:"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget.posts.php:12
+msgid "Laurie Blog - Posts List"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:13 inc/widgets/widget.posts2.php:13
+msgid "Show recent or popular posts."
+msgstr ""
+
+#: inc/widgets/widget.posts.php:193 inc/widgets/widget.posts2.php:197
+msgid "Amount:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:197 inc/widgets/widget.posts2.php:201
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:199 inc/widgets/widget.posts2.php:203
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:200 inc/widgets/widget.posts2.php:204
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widget.posts.php:204 inc/widgets/widget.posts2.php:208
+msgid "Blog Category:"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget.posts2.php:12
+msgid "Laurie Blog - Posts List #2"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget.subscribe.php:15
+msgid "Laurie Blog - Subscribe"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:16
+msgid "Show subscription form."
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:124
+msgid "BG Image URL:"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:128
+msgid "First Line:"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:132
+msgid "Second Line:"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:136
+msgid "Form Shortcode :"
+msgstr ""
+
+#: inc/widgets/widget.subscribe.php:140
+msgid "Small Text:"
+msgstr ""
+
+#: template-parts/header/page-title.php:15
+#: template-parts/header/page-title.php:29
+msgid "Browsing Category: "
+msgstr ""
+
+#: template-parts/header/page-title.php:17
+msgid "Browsing Tag: "
+msgstr ""
+
+#: template-parts/header/page-title.php:19
+msgid "All Posts By: "
+msgstr ""
+
+#: template-parts/header/page-title.php:21
+msgid "Browsing Year: "
+msgstr ""
+
+#: template-parts/header/page-title.php:23
+msgid "Browsing Month: "
+msgstr ""
+
+#: template-parts/header/page-title.php:25
+msgid "Browsing Day: "
+msgstr ""
+
+#: template-parts/header/page-title.php:27
+msgid "Browsing Post: "
+msgstr ""
+
+#: template-parts/header/page-title.php:31
+msgid "Search Results For: "
+msgstr ""
+
+#: template-parts/header/page-title.php:33
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/listing/post-slider-1.php:27
+#: template-parts/listing/post-slider-3.php:45
+#: template-parts/listing/post-slider-4.php:54
+#: template-parts/listing/post-slider-5.php:45
+#: template-parts/header/modules/intro-box.php:55
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/header/modules/promo-boxes.php:71
+msgid "Box 1 Image"
+msgstr ""
+
+#: template-parts/header/modules/promo-boxes.php:151
+msgid "Box 2 Image"
+msgstr ""
+
+#: template-parts/header/modules/promo-boxes.php:231
+msgid "Box 3 Image"
+msgstr ""
+
+#. Name of the theme
+msgid "Laurie Blog"
+msgstr ""
+
+#. Description of the theme
+msgid "WordPress theme for blog websites."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/danyduchaine/portfolio"
+msgstr ""
+
+#. Author of the theme
+msgid "Dany Duchaine"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/danyduchaine"
+msgstr ""
